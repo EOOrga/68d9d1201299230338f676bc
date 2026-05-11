@@ -1,0 +1,6 @@
+using $gpc-app-builder  create this app
+app title: MINIER BERNARD MARCEL
+app idea: An operations-focused app offering container tracking, task management, revenue analytics, and reservation management to streamline daily business tasks.
+company name: MINIER BERNARD MARCEL
+email address: [email to be provided later]
+the two icon and featured graphics contained in docs folder

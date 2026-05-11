@@ -1,0 +1,15 @@
+App name
+MINIER BERNARD MARCEL
+
+Short description
+Track containers, tasks, revenue, and reservations offline.
+
+Full description
+MINIER BERNARD MARCEL is an operations-focused Android app for managing daily business work from one private device workspace.
+
+Create local records for containers, tasks, reservations, and revenue entries, then follow each item by reference, client, status, date, value, and notes.
+
+Use the dashboard and revenue analytics screens to review active work, waiting items, completed value, and upcoming commitments without account setup or cloud sync.
+
+Category
+Business
