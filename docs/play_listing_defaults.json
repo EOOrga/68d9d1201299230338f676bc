@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.taziggg100.minierbernardmarcel": {
+      "title": "MINIER BERNARD MARCEL",
+      "short_description": "Track containers, tasks, revenue, and reservations offline.",
+      "full_description": "MINIER BERNARD MARCEL is an operations-focused Android app for managing daily business work from one private device workspace.\n\nCreate local records for containers, tasks, reservations, and revenue entries, then follow each item by reference, client, status, date, value, and notes.\n\nUse the dashboard and revenue analytics screens to review active work, waiting items, completed value, and upcoming commitments without account setup or cloud sync.",
+      "source_screenshots": [
+        "docs/screens/01_home.png",
+        "docs/screens/02_containers.png",
+        "docs/screens/03_planner.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:21:14.459392+00:00"
+    }
+  }
+}
