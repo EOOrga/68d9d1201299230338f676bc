@@ -1,4 +1,4 @@
-name: minier_bernard_marcel
+name: bocayo
 description: Offline operations management for containers, tasks, revenue, and reservations.
 publish_to: 'none'
 version: 1.0.0+1
@@ -25,6 +25,8 @@ flutter_launcher_icons:
   android: true
   ios: false
   image_path: docs/icon.png
+  adaptive_icon_foreground: docs/icon.png
+  adaptive_icon_background: "#E08600"
   min_sdk_android: 23
   web:
     generate: true
